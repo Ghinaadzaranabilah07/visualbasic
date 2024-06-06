@@ -1,0 +1,131 @@
+C:\Users\Kuliah\Documents\Program Database Access\Program_database_access\Program_database_access\bin\Debug\Program_database_access.exe.config
+C:\Users\Kuliah\Documents\Program Database Access\Program_database_access\Program_database_access\bin\Debug\Program_database_access.exe
+C:\Users\Kuliah\Documents\Program Database Access\Program_database_access\Program_database_access\bin\Debug\Program_database_access.pdb
+C:\Users\Kuliah\Documents\Program Database Access\Program_database_access\Program_database_access\bin\Debug\Program_database_access.xml
+C:\Users\Kuliah\Documents\Program Database Access\Program_database_access\Program_database_access\obj\Debug\Program_database_access.Form1.resources
+C:\Users\Kuliah\Documents\Program Database Access\Program_database_access\Program_database_access\obj\Debug\Program_database_access.Resources.resources
+C:\Users\Kuliah\Documents\Program Database Access\Program_database_access\Program_database_access\obj\Debug\Program_database_access.vbproj.GenerateResource.Cache
+C:\Users\Kuliah\Documents\Program Database Access\Program_database_access\Program_database_access\obj\Debug\Program_database_access.exe
+C:\Users\Kuliah\Documents\Program Database Access\Program_database_access\Program_database_access\obj\Debug\Program_database_access.xml
+C:\Users\Kuliah\Documents\Program Database Access\Program_database_access\Program_database_access\obj\Debug\Program_database_access.pdb
+E:\Gudang Program Database access dan Mysql\Program_database_access  Hotma\Program_database_access\bin\Debug\Program_database_access.exe.config
+E:\Gudang Program Database access dan Mysql\Program_database_access  Hotma\Program_database_access\bin\Debug\Program_database_access.exe
+E:\Gudang Program Database access dan Mysql\Program_database_access  Hotma\Program_database_access\bin\Debug\Program_database_access.pdb
+E:\Gudang Program Database access dan Mysql\Program_database_access  Hotma\Program_database_access\bin\Debug\Program_database_access.xml
+E:\Gudang Program Database access dan Mysql\Program_database_access  Hotma\Program_database_access\obj\Debug\Program_database_access.vbproj.AssemblyReference.cache
+E:\Gudang Program Database access dan Mysql\Program_database_access  Hotma\Program_database_access\obj\Debug\Program_database_access.vbproj.SuggestedBindingRedirects.cache
+E:\Gudang Program Database access dan Mysql\Program_database_access  Hotma\Program_database_access\obj\Debug\Program_database_access.Form1.resources
+E:\Gudang Program Database access dan Mysql\Program_database_access  Hotma\Program_database_access\obj\Debug\Program_database_access.Resources.resources
+E:\Gudang Program Database access dan Mysql\Program_database_access  Hotma\Program_database_access\obj\Debug\Program_database_access.vbproj.GenerateResource.cache
+E:\Gudang Program Database access dan Mysql\Program_database_access  Hotma\Program_database_access\obj\Debug\Program_database_access.vbproj.CoreCompileInputs.cache
+E:\Gudang Program Database access dan Mysql\Program_database_access  Hotma\Program_database_access\obj\Debug\Program_database_access.exe
+E:\Gudang Program Database access dan Mysql\Program_database_access  Hotma\Program_database_access\obj\Debug\Program_database_access.xml
+E:\Gudang Program Database access dan Mysql\Program_database_access  Hotma\Program_database_access\obj\Debug\Program_database_access.pdb
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access  Hotma\Program_database_access\bin\Debug\Program_database_access.exe.config
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access  Hotma\Program_database_access\bin\Debug\Program_database_access.exe
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access  Hotma\Program_database_access\bin\Debug\Program_database_access.pdb
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access  Hotma\Program_database_access\bin\Debug\Program_database_access.xml
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access  Hotma\Program_database_access\obj\Debug\Program_database_access.vbproj.AssemblyReference.cache
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access  Hotma\Program_database_access\obj\Debug\Program_database_access.Form1.resources
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access  Hotma\Program_database_access\obj\Debug\Program_database_access.Resources.resources
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access  Hotma\Program_database_access\obj\Debug\Program_database_access.poppeg.resources
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access  Hotma\Program_database_access\obj\Debug\Program_database_access.vbproj.GenerateResource.cache
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access  Hotma\Program_database_access\obj\Debug\Program_database_access.vbproj.CoreCompileInputs.cache
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access  Hotma\Program_database_access\obj\Debug\Program_database_access.exe
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access  Hotma\Program_database_access\obj\Debug\Program_database_access.xml
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access  Hotma\Program_database_access\obj\Debug\Program_database_access.pdb
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access  Hotma\Program_database_access\obj\Debug\Program_database_access.Form2.resources
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access Data Pegawai Hotma\Program_database_access\bin\Debug\Program_database_access.exe.config
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access Data Pegawai Hotma\Program_database_access\bin\Debug\Program_database_access.exe
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access Data Pegawai Hotma\Program_database_access\bin\Debug\Program_database_access.pdb
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access Data Pegawai Hotma\Program_database_access\bin\Debug\Program_database_access.xml
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access Data Pegawai Hotma\Program_database_access\obj\Debug\Program_database_access.vbproj.AssemblyReference.cache
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access Data Pegawai Hotma\Program_database_access\obj\Debug\Program_database_access.Form1.resources
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access Data Pegawai Hotma\Program_database_access\obj\Debug\Program_database_access.Form2.resources
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access Data Pegawai Hotma\Program_database_access\obj\Debug\Program_database_access.Resources.resources
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access Data Pegawai Hotma\Program_database_access\obj\Debug\Program_database_access.poppeg.resources
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access Data Pegawai Hotma\Program_database_access\obj\Debug\Program_database_access.vbproj.GenerateResource.cache
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access Data Pegawai Hotma\Program_database_access\obj\Debug\Program_database_access.vbproj.CoreCompileInputs.cache
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access Data Pegawai Hotma\Program_database_access\obj\Debug\Program_database_access.exe
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access Data Pegawai Hotma\Program_database_access\obj\Debug\Program_database_access.xml
+E:\GUDANG PROGRAM ACCESS DAN MYSQL\Program_database_access Data Pegawai Hotma\Program_database_access\obj\Debug\Program_database_access.pdb
+D:\Documents\TM_Visual_Basic\Program_database_access Data Pegawai Hotma\Program_database_access\bin\Debug\Program_database_access.exe.config
+D:\Documents\TM_Visual_Basic\Program_database_access Data Pegawai Hotma\Program_database_access\bin\Debug\Program_database_access.exe
+D:\Documents\TM_Visual_Basic\Program_database_access Data Pegawai Hotma\Program_database_access\bin\Debug\Program_database_access.pdb
+D:\Documents\TM_Visual_Basic\Program_database_access Data Pegawai Hotma\Program_database_access\bin\Debug\Program_database_access.xml
+D:\Documents\TM_Visual_Basic\Program_database_access Data Pegawai Hotma\Program_database_access\obj\Debug\Program_database_access.vbproj.AssemblyReference.cache
+D:\Documents\TM_Visual_Basic\Program_database_access Data Pegawai Hotma\Program_database_access\obj\Debug\Program_database_access.Form1.resources
+D:\Documents\TM_Visual_Basic\Program_database_access Data Pegawai Hotma\Program_database_access\obj\Debug\Program_database_access.Form2.resources
+D:\Documents\TM_Visual_Basic\Program_database_access Data Pegawai Hotma\Program_database_access\obj\Debug\Program_database_access.Resources.resources
+D:\Documents\TM_Visual_Basic\Program_database_access Data Pegawai Hotma\Program_database_access\obj\Debug\Program_database_access.poppeg.resources
+D:\Documents\TM_Visual_Basic\Program_database_access Data Pegawai Hotma\Program_database_access\obj\Debug\Program_database_access.vbproj.GenerateResource.cache
+D:\Documents\TM_Visual_Basic\Program_database_access Data Pegawai Hotma\Program_database_access\obj\Debug\Program_database_access.vbproj.CoreCompileInputs.cache
+D:\Documents\TM_Visual_Basic\Program_database_access Data Pegawai Hotma\Program_database_access\obj\Debug\Program_database_access.exe
+D:\Documents\TM_Visual_Basic\Program_database_access Data Pegawai Hotma\Program_database_access\obj\Debug\Program_database_access.xml
+D:\Documents\TM_Visual_Basic\Program_database_access Data Pegawai Hotma\Program_database_access\obj\Debug\Program_database_access.pdb
+D:\Documents\TM_Visual_Basic\TM_visual_Basic\Program_database_access\bin\Debug\Program_database_access.exe.config
+D:\Documents\TM_Visual_Basic\TM_visual_Basic\Program_database_access\bin\Debug\Program_database_access.exe
+D:\Documents\TM_Visual_Basic\TM_visual_Basic\Program_database_access\bin\Debug\Program_database_access.pdb
+D:\Documents\TM_Visual_Basic\TM_visual_Basic\Program_database_access\bin\Debug\Program_database_access.xml
+D:\Documents\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.vbproj.AssemblyReference.cache
+D:\Documents\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.Form1.resources
+D:\Documents\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.Form2.resources
+D:\Documents\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.Resources.resources
+D:\Documents\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.poppeg.resources
+D:\Documents\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.vbproj.GenerateResource.cache
+D:\Documents\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.vbproj.CoreCompileInputs.cache
+D:\Documents\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.exe
+D:\Documents\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.xml
+D:\Documents\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.pdb
+D:\TM VB\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\bin\Debug\Program_database_access.exe.config
+D:\TM VB\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.exe
+D:\TM VB\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.xml
+D:\TM VB\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.pdb
+D:\TM VB\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\bin\Debug\Program_database_access.exe
+D:\TM VB\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\bin\Debug\Program_database_access.pdb
+D:\TM VB\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\bin\Debug\Program_database_access.xml
+D:\TM VB\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.vbprojResolveAssemblyReference.cache
+D:\TM VB\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.Form1.resources
+D:\TM VB\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.Form2.resources
+D:\TM VB\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.Resources.resources
+D:\TM VB\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.poppeg.resources
+D:\TM VB\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.vbproj.GenerateResource.Cache
+C:\Users\ThinkUser\Desktop\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\bin\Debug\Program_database_access.exe.config
+C:\Users\ThinkUser\Desktop\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.exe
+C:\Users\ThinkUser\Desktop\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.xml
+C:\Users\ThinkUser\Desktop\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.pdb
+C:\Users\ThinkUser\Desktop\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\bin\Debug\Program_database_access.exe
+C:\Users\ThinkUser\Desktop\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\bin\Debug\Program_database_access.pdb
+C:\Users\ThinkUser\Desktop\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\bin\Debug\Program_database_access.xml
+C:\Users\ThinkUser\Desktop\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.vbprojResolveAssemblyReference.cache
+C:\Users\ThinkUser\Desktop\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.Form1.resources
+C:\Users\ThinkUser\Desktop\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.Form2.resources
+C:\Users\ThinkUser\Desktop\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.Resources.resources
+C:\Users\ThinkUser\Desktop\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.poppeg.resources
+C:\Users\ThinkUser\Desktop\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.vbproj.GenerateResource.Cache
+C:\Users\AsusUser\Desktop\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\bin\Debug\Program_database_access.exe.config
+C:\Users\AsusUser\Desktop\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.exe
+C:\Users\AsusUser\Desktop\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.xml
+C:\Users\AsusUser\Desktop\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.pdb
+C:\Users\AsusUser\Desktop\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\bin\Debug\Program_database_access.exe
+C:\Users\AsusUser\Desktop\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\bin\Debug\Program_database_access.pdb
+C:\Users\AsusUser\Desktop\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\bin\Debug\Program_database_access.xml
+C:\Users\AsusUser\Desktop\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.vbprojResolveAssemblyReference.cache
+C:\Users\AsusUser\Desktop\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.Form1.resources
+C:\Users\AsusUser\Desktop\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.Form2.resources
+C:\Users\AsusUser\Desktop\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.Resources.resources
+C:\Users\AsusUser\Desktop\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.poppeg.resources
+C:\Users\AsusUser\Desktop\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.vbproj.GenerateResource.Cache
+C:\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\bin\Debug\Program_database_access.exe.config
+C:\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\bin\Debug\Program_database_access.exe
+C:\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\bin\Debug\Program_database_access.pdb
+C:\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\bin\Debug\Program_database_access.xml
+C:\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.vbprojResolveAssemblyReference.cache
+C:\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.Form1.resources
+C:\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.Form2.resources
+C:\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.Resources.resources
+C:\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.poppeg.resources
+C:\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.vbproj.GenerateResource.Cache
+C:\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.exe
+C:\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.xml
+C:\vb ghina\TM\GHINA\visual_Basic\TM_Visual_Basic\TM_visual_Basic\Program_database_access\obj\Debug\Program_database_access.pdb
